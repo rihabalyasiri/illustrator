@@ -27,7 +27,7 @@ li {
 header {
     width:100%;
     height: 100vh;
-    background:url(https://drive.google.com/thumbnail?id=1pgmQ2PmGhomvAAlpdpd6dAf9b1a05Lht&authuser=0&sz=w1920-h969) no-repeat right top;
+    background:url(img/illustration1.gif) no-repeat right top;
     z-index: 2;
     position: relative;
     margin-bottom: 0;
@@ -130,7 +130,7 @@ header div a:last-of-type:hover {
 
 section:first-of-type {
     width:100%;
-    background: url(https://drive.google.com/thumbnail?id=16VBdovFcmUVfTllOvnO3ZD_t1atbOyTW&authuser=0&sz=w1920-h969) no-repeat left 5% top 20% ;
+    background: url(img/illustration2.png) no-repeat left 5% top 20% ;
     background-size: 30%;
     margin-top: 0;
     padding-bottom: 100px ;
@@ -147,7 +147,7 @@ section:first-of-type div {
 
 section:nth-of-type(2) {
     width:100%;
-    background: url(https://drive.google.com/thumbnail?id=1YxEHFJi0Qa9k65Fkww5ulP_GZCxt9GkR&authuser=0&sz=w1920-h969) no-repeat right 4% top ;
+    background: url(img/illustration3.png) no-repeat right 4% top ;
     background-size: 30%;
     margin-top: 0;
     padding-bottom: 400px;
